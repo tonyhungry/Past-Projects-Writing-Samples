@@ -1,7 +1,3 @@
-# SNA 110th US Senate 
+# Collection of Reports, Thesis, & Projects
 
-URL for the markdown version of the R script: https://tonyhungry.github.io/110sna/
-
-For a more detailed explanation of what has been done, please look at the PDF version.
-
-Data available upon request.
+This repository serves as collection of all of the different reports, thesis, and projects I have worked on in the past few years.
